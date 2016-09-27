@@ -1,0 +1,18 @@
+
+
+
+Single Linked List Logics : 
+
+Logic for Create linked List : 
+
+Logic for Inserting new element at beginning
+
+Logic for Inserting new element at nth position
+
+Logic for deleting element at  nth Position
+
+Find last Element 
+
+Advantages  using linked list : 
+
+Usages of Linked list
